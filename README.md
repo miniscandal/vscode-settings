@@ -2,9 +2,9 @@
 
 Te comparto mi configuración y las extensiones que utilizo en Visual Studio Code.
 
-<img src="./doc/pictures/capture-03.png" width="540">
+<img src="./doc/pictures/capture-05.png" width="540">
 
-<img src="./doc/pictures/capture-02.png" width="540">
+<img src="./doc/pictures/capture-06.png" width="540">
 
 ## Recomendación importante
 ≧◠‿◠≦
@@ -43,12 +43,16 @@ Es importante que no olvides hacer un respaldo de tu configuración actual.
 
 
 ## Archivo de configuración
+≧◠‿◠≦
+
 
 Me gusta el minimalismo, por lo que la mayoría de elementos y marcas visuales  
 están ocultos. Los elementos que utilizo están configurados con un atajo para  
 mostrarlos u ocultarlos según sea necesario, lo que me ayuda a mantenerme enfocado.
 
 ## Atajos de teclado
+≧◠‿◠≦
+
 
 He configurado atajos de teclado que me resultan fáciles de recordar y que me  
 permiten ser más eficiente y productivo.
