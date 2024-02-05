@@ -18,7 +18,7 @@ Es importante que no olvides hacer un respaldo de tu configuración actual.
 [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
 [Fresh and Sober Color Theme](https://marketplace.visualstudio.com/items?itemName=marco87dev.fresh-and-sober-color-theme)  
 [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator) |
-[Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacod) |
+[Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) |
 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 
@@ -32,7 +32,7 @@ Es importante que no olvides hacer un respaldo de tu configuración actual.
 
 ### JavaScript
 
-[ESLint](href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) |
+[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) |
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
 ### Java
