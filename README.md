@@ -11,7 +11,7 @@ Te comparto mi configuración y las extensiones que utilizo en Visual Studio Cod
 
 Es importante que no olvides hacer un respaldo de tu configuración actual.
 
-## Main extensions
+## Extensiones pricipales
 ≧◠‿◠≦
 
 [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) |
@@ -22,7 +22,7 @@ Es importante que no olvides hacer un respaldo de tu configuración actual.
 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 
-## Profile extensions
+## Extensiones de perfil
 ≧◠‿◠≦
 
 ### Python
