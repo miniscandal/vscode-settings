@@ -14,12 +14,20 @@ Es importante que no olvides hacer un respaldo de tu configuración actual.
 ## Extensiones generales
 ≧◠‿◠≦
 
+<a href="https://marketplace.visualstudio.com/items?itemName=Katsute.code-background" target="_blank">Background</a> |
+<a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker" target="_blank">Code Spell Checker</a> |
+<a href="https://marketplace.visualstudio.com/items?itemName=marco87dev.fresh-and-sober-color-theme" target="_blank">Fresh and Sober Color Theme</a> |  
+<a href="https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator" target="_blank">Indenticator</a> |
+<a href="https://marketplace.visualstudio.com/items?itemName=pnp.polacod" target="_blank">Polacode</a> |
+<a href="https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons" target="_blank">vscode-icons</a>
+
+<!-- 
 [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) |
 [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
 [Fresh and Sober Color Theme](https://marketplace.visualstudio.com/items?itemName=marco87dev.fresh-and-sober-color-theme)  
 [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator) |
 [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacod) |
-[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) -->
 
 
 ## Extensiones de perfil
@@ -27,18 +35,20 @@ Es importante que no olvides hacer un respaldo de tu configuración actual.
 
 ### Python
 
-[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | [Pylint](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint)
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python" target="_blank">Python</a> |
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-python.pylint" target="_blank">Pylint</a>
 
 ### JavaScript
 
-[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
-
+<a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" target="_blank">ESLint</a> |
+<a href="https://marketplace.visualstudio.com/items?itemName=Angular.ng-template" target="_blank">Angular Language Service</a>
 
 ### Java
 
-[Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) |
-[Gradle for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle) |
-[Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)
+<a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack" target="_blank">Extension Pack for Java</a> |
+<a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle" target="_blank">Gradle for Java</a> |
+<a href="https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack" target="_blank">Spring Boot Extension Pack</a>
+
 
 ## Archivo de configuración
 
