@@ -11,7 +11,7 @@ Te comparto mi configuración y las extensiones que utilizo en Visual Studio Cod
 
 Es importante que no olvides hacer un respaldo de tu configuración actual.
 
-## Extensiones pricipales
+## Extensiones generales
 ≧◠‿◠≦
 
 [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) |
