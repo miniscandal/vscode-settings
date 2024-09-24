@@ -1,0 +1,78 @@
+Themes:
+
+Arcade .
+A Pastel Fever Dream
+Acheron
+Asteria
+Black Back Dark E-Theme
+Bubble Theme by Bubbla
+Chiclete de uva | Theme
+Chroma Drift
+corgi-Dark-Pastel
+Dark Candy
+Dark Pastel
+Darker Still
+Down Under
+Dracula At Dusk
+Easter Egg
+Gleam Themes
+Hibiscus Theme
+Jelly Theme
+jjk theme
+KEVIN-KOLORS
+Kitty-VSCode-Theme
+kurama
+Looking Glass Theme Dark
+Matchalk
+Mermaid Theme
+monochrome.
+MungMingTheme
+Nightly Theme
+Nord
+Nord Deep
+Nord Light
+Nord Wave
+One Candy Dark
+Pastel Noir
+Pastel Sky Theme
+Pastel Underwater Sun
+pastelfairy
+pastellize
+Perfect Grey PF
+Petals Pastels
+Pink as Heck
+Pink Panda Dark
+PinkBlue Theme
+Rosé Pine
+Safira Theme
+Studio Ghibli Inspired Themes
+Subtle Pick
+Theme +
+Urara
+UwU Kawai Theme
+
+
+
+Personalization Windows All:
+
+Background
+Minimalist Product Icon Theme
+vscode-icons
+Symbols
+Catppuccin Icons for VSCode
+Material Icon Theme
+
+
+
+Development Tools All:
+
+Code Spell Checker
+CodeSnap
+
+
+
+Development Tools JavaScript:
+
+ESLint
+Microsoft Edge Tools for VS Code
+

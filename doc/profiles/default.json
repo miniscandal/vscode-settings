@@ -24,12 +24,20 @@
             "color": "#a354aa36",
         }
     ],
+    "background.windowBackgrounds": [
+        "c:/Users/histo/ScandalCode/Wallpapers/312856.png"
+    ],
+    "indenticator.width": 0.1,
+    "indenticator.color.dark": "#a354aa36",
+    "indenticator.color.light": "#a354aa36",
     "breadcrumbs.filePath": "off",
     "git.enabled": false,
     "window.commandCenter": false,
+    "workbench.iconTheme": "vscode-icons",
     "workbench.sideBar.location": "right",
     "workbench.layoutControl.enabled": false,
     "workbench.editor.showTabs": "single",
+    "workbench.colorTheme": "Acheron",
     "workbench.colorCustomizations": {
         "editorOverviewRuler.errorForeground": "#00000000",
         "editorOverviewRuler.background": "#00000000",
@@ -50,9 +58,14 @@
         // "editor.wordHighlightBorder": "#352F44",
         // "editor.selectionBackground": "#42293f",
     },
-    "editor.unicodeHighlight.nonBasicASCII": false,
-    "typescript.validate.enable": true,
-    "workbench.activityBar.location": "hidden",
+    "cSpell.enabled": false,
     "workbench.statusBar.visible": false,
-    "editor.hover.enabled": false,
+    "symbols.hidesExplorerArrows": false,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "java.jdt.ls.java.home": "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.1.12-hotspot",
+    "python.analysis.typeCheckingMode": "strict",
+    "workbench.settings.applyToAllProfiles": [
+        "editor.tabSize"
+    ],
+    "window.menuBarVisibility": "compact",
 }

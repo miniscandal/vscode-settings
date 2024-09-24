@@ -24,12 +24,17 @@
             "color": "#a354aa36",
         }
     ],
+    "indenticator.width": 0.1,
+    "indenticator.color.dark": "#a354aa36",
+    "indenticator.color.light": "#a354aa36",
     "breadcrumbs.filePath": "off",
     "git.enabled": false,
     "window.commandCenter": false,
+    "workbench.iconTheme": "vscode-icons",
     "workbench.sideBar.location": "right",
     "workbench.layoutControl.enabled": false,
     "workbench.editor.showTabs": "single",
+    "workbench.colorTheme": "MungMingTheme",
     "workbench.colorCustomizations": {
         "editorOverviewRuler.errorForeground": "#00000000",
         "editorOverviewRuler.background": "#00000000",
@@ -50,9 +55,14 @@
         // "editor.wordHighlightBorder": "#352F44",
         // "editor.selectionBackground": "#42293f",
     },
+    "symbols.hidesExplorerArrows": false,
     "editor.unicodeHighlight.nonBasicASCII": false,
-    "typescript.validate.enable": true,
-    "workbench.activityBar.location": "hidden",
+    "java.jdt.ls.java.home": "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.1.12-hotspot",
+    "python.analysis.typeCheckingMode": "strict",
+    "background.windowBackgrounds": [
+        "c:/Users/histo/ScandalCode/Wallpapers/1291341.png"
+    ],
+    "cSpell.enabled": false,
     "workbench.statusBar.visible": false,
-    "editor.hover.enabled": false,
+    "workbench.activityBar.location": "hidden",
 }

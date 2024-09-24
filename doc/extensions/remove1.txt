@@ -1,0 +1,21 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
+
+public class Main {
+    public static void main(String[] args) {
+        try {
+            // Redirige la salida de System.err a un archivo
+            PrintStream ps = new PrintStream(new File("error.log"));
+            System.setErr(ps);
+
+            // Provocar una excepción para generar un stack trace
+            int result = 10 / 0;  // Esto generará una ArithmeticException
+
+        } catch (Exception e) {
+            // Esto escribirá el stack trace en el archivo "error.log"
+            e.printStackTrace();
+        }
+    }
+}
+06 time 7:25 Mie

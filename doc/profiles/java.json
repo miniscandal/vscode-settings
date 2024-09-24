@@ -24,9 +24,16 @@
             "color": "#a354aa36",
         }
     ],
+    "background.windowBackgrounds": [
+        "c:/Users/histo/ScandalCode/Wallpapers/ken-kaneki-tokyo-3840x2160-10596.png"
+    ],
+    "indenticator.width": 0.1,
+    "indenticator.color.dark": "#a354aa36",
+    "indenticator.color.light": "#a354aa36",
     "breadcrumbs.filePath": "off",
     "git.enabled": false,
     "window.commandCenter": false,
+    "workbench.iconTheme": "symbols",
     "workbench.sideBar.location": "right",
     "workbench.layoutControl.enabled": false,
     "workbench.editor.showTabs": "single",
@@ -50,9 +57,40 @@
         // "editor.wordHighlightBorder": "#352F44",
         // "editor.selectionBackground": "#42293f",
     },
+    "symbols.hidesExplorerArrows": false,
     "editor.unicodeHighlight.nonBasicASCII": false,
-    "typescript.validate.enable": true,
-    "workbench.activityBar.location": "hidden",
+    "python.analysis.typeCheckingMode": "strict",
+    "workbench.colorTheme": "Fresh and Sober Color Theme | Dark",
+    "codesnap.showWindowControls": false,
+    "polacode.shadow": "rgba(0, 0, 0, 0.55) 0px 0px 0px",
+    "polacode.backgroundColor": "#ffffff",
+    "background.backgroundChangeTime": [
+        180,
+        0,
+        0,
+        0
+    ],
+    "polacode.target": "snippet",
+    "background.backgroundOpacity": [
+        0.9,
+        0.9,
+        0.9,
+        0.9
+    ],
+    "background.editorBackgrounds": [],
+    "background.backgroundBlur": [
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "background.backgroundSize": [
+        "Cover",
+        "Cover",
+        "Cover",
+        "Cover"
+    ],
     "workbench.statusBar.visible": false,
-    "editor.hover.enabled": false,
+    "background.useInvertedOpacity": true,
+    "workbench.activityBar.location": "hidden",
 }
