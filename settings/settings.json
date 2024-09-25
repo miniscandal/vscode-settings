@@ -52,7 +52,9 @@
     },
     "editor.unicodeHighlight.nonBasicASCII": false,
     "typescript.validate.enable": true,
-    "workbench.activityBar.location": "hidden",
     "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Default Light Modern",
     "editor.hover.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "window.menuBarVisibility": "compact",
 }
