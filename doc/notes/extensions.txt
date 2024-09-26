@@ -31,6 +31,7 @@ REST Client
 Symbols
 PowerShell
 
+
 ✰
 Profiles extensions
 
@@ -39,3 +40,29 @@ Python: Pylance, Pylint
 JavaScript: ESLint, Angular Language Service
 
 Java: Extension Pack for Java, Gradle for Java, Spring Boot Extension Pack
+
+
+✰
+Personalization Windows All:
+
+Background
+Minimalist Product Icon Theme
+vscode-icons
+Symbols
+Catppuccin Icons for VSCode
+Material Icon Theme
+
+
+
+Development Tools All:
+
+Code Spell Checker
+CodeSnap
+
+
+
+Development Tools JavaScript:
+
+ESLint
+Microsoft Edge Tools for VS Code
+
