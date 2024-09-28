@@ -1,37 +1,33 @@
-Favorites:
+Dark:
 
 Arcade
 A Pastel Fever Dream
-Acheron
-Asteria
-Petals Pastels
-Black Back Dark E-Theme
-MungMingTheme
-Dark Pastel
 Dracula At Dusk
-Darcula IntelliJ Theme
-Hibiscus Theme
-KEVIN-KOLORS
 Jelly Theme
-Kitty-VSCode-Theme
 kurama
-Looking Glass Theme Dark
 Matchalk
-monochrome.
-Nightly Theme
 Nord
 Nord Deep
-Nord Light
 Nord Wave
-One Candy Dark
-Safira Theme
-Darcula IntelliJ Theme
-Pastel Underwater Sun
+Petals Pastels
 PinkBlue Theme
-Studio Ghibli Inspired Themes
-Pastel Sky Theme
-Pink Panda Dark
+Safira Theme
+Asteria
+
+
+
+White:
+
+Acheron
+Nord Light
+Pastel Underwater Sun
+Ultimate White
+Cute Pink Light Theme
+
+
+
+Black - White:
+
+mono
 Pink Candy Theme
-UwU Kawai Theme
-
-
+Light Pink Theme
