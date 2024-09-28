@@ -2,35 +2,21 @@ Favorites:
 
 Arcade
 A Pastel Fever Dream
-Asteria
-Chroma Drift
-MungMingTheme
-Petals Pastels
-
-
-
-Others:
-
 Acheron
+Asteria
+Petals Pastels
 Black Back Dark E-Theme
-Bubble Theme by Bubbla
-Chiclete de uva | Theme
-corgi-Dark-Pastel
-Dark Candy
+MungMingTheme
 Dark Pastel
-Darker Still
-Down Under
 Dracula At Dusk
-Easter Egg
-Gleam Themes
+Darcula IntelliJ Theme
 Hibiscus Theme
-Jelly Theme
 KEVIN-KOLORS
+Jelly Theme
 Kitty-VSCode-Theme
 kurama
 Looking Glass Theme Dark
 Matchalk
-Mermaid Theme
 monochrome.
 Nightly Theme
 Nord
@@ -38,17 +24,14 @@ Nord Deep
 Nord Light
 Nord Wave
 One Candy Dark
-pastelfairy
-Rosé Pine
 Safira Theme
-Theme +
-Urara
+Darcula IntelliJ Theme
 Pastel Underwater Sun
-Perfect Grey PF
-pastellize
 PinkBlue Theme
 Studio Ghibli Inspired Themes
 Pastel Sky Theme
 Pink Panda Dark
-Subtle Pick
+Pink Candy Theme
 UwU Kawai Theme
+
+
