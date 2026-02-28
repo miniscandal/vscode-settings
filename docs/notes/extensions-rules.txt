@@ -1,0 +1,4 @@
+"doki.background.enabled": false,
+"doki.wallpaper.enabled": false,
+"doki.sticker.css": "z-index:100; background-position:98% 100%; opacity: 0.9;",
+"doki.sticker.path": "C:\\Users\\histo\\Downloads\\stickers\\sticker-anne.png",

@@ -1,0 +1,60 @@
+✰ Dark:
+
+A Pastel Fever Dream: https://marketplace.visualstudio.com/items?itemName=Mubariz.a-pastel-fever-dream
+Nord: https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code
+Nord Deep: https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep
+Zenith Theme: https://marketplace.visualstudio.com/items?itemName=britown.vscode-theme-zenith
+Correia Github Gruvbox: https://marketplace.visualstudio.com/items?itemName=CorreiaGitHubGruvbox.correia-github-gruvbox
+Gruvbox Material Modern: https://marketplace.visualstudio.com/items?itemName=jpcrs.gruvbox-material-modern
+Petals Pastels: https://marketplace.visualstudio.com/items?itemName=AnandKothari.petals-pastels
+Morandi Gruv Theme: https://marketplace.visualstudio.com/items?itemName=BaoYuXiang.morandigruv
+Nord Wave: https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave
+kurama: https://marketplace.visualstudio.com/items?itemName=fomtarro.kurama
+Jelly Theme: https://marketplace.visualstudio.com/items?itemName=kylethebaker.jelly-theme
+Safira Theme: https://marketplace.visualstudio.com/items?itemName=yinz.safira
+Matchalk: https://marketplace.visualstudio.com/items?itemName=lucafalasco.matchalk
+PinkBlue Theme: https://marketplace.visualstudio.com/items?itemName=Giacomo002.pinkblue-theme
+Asteria: https://marketplace.visualstudio.com/items?itemName=spaceinvadev.asteria
+Dracula Theme Official: https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
+One Candy Dark: https://marketplace.visualstudio.com/items?itemName=KacperBiedka.one-candy-dark
+
+
+
+✰ White
+
+Meridian Theme: https://marketplace.visualstudio.com/items?itemName=britown.vscode-theme-meridian
+Rosely Light: https://marketplace.visualstudio.com/items?itemName=HelloTham.vsc-rosely-light
+MungMingTheme:https://marketplace.visualstudio.com/items?itemName=ggolfz.mungmingtheme
+Acheron: https://marketplace.visualstudio.com/items?itemName=MOXIEPOLITAN.acheron
+Nord Light: https://marketplace.visualstudio.com/items?itemName=huytd.nord-light
+Nord Light Theme: https://marketplace.visualstudio.com/items?itemName=IllegalStudio.nord-light-theme
+Pastel Underwater Sun: https://marketplace.visualstudio.com/items?itemName=YuxuanWu.pastel-underwater-sun
+Ultimate White: https://marketplace.visualstudio.com/items?itemName=MajorBreakfast.ultimate-white
+Cute Pink Light Theme: https://marketplace.visualstudio.com/items?itemName=webfreak.cute-theme
+
+
+✰ Black - White
+
+Arcade: https://marketplace.visualstudio.com/items?itemName=that70schris.arcade
+Gruvbox Concoctis: https://marketplace.visualstudio.com/items?itemName=wheredoesyourmindgo.gruvbox-concoctis
+Light Pink Theme: https://marketplace.visualstudio.com/items?itemName=mgwg.light-pink-theme
+Catppuccin for VSCode: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
+Gruvbox Material: https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material
+Pink Candy Theme: https://marketplace.visualstudio.com/items?itemName=kuba-p.theme-pink-candy
+Monochrome: https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome
+mono: https://marketplace.visualstudio.com/items?itemName=StepanVanzuriak.mono
+
+
+✰ Icons
+
+Symbols: https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
+
+Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+Gruvbox Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme
+
+Minimalist Product Icon Theme: https://marketplace.visualstudio.com/items?itemName=ElAnandKumar.el-vsc-product-icon-theme
+
+Catppuccin Icons for VSCode: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
+
+vscode-icons: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
