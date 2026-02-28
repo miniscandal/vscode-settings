@@ -1,0 +1,92 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+m ctrl+b",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "escape",
+        "command": "-workbench.statusBar.clearFocus",
+        "when": "statusBarFocused"
+    },
+    {
+        "key": "ctrl+m ctrl+n",
+        "command": "workbench.action.toggleStatusbarVisibility"
+    },
+    {
+        "key": "ctrl+m ctrl+m",
+        "command": "workbench.action.toggleMenuBar"
+    },
+    {
+        "key": "ctrl+e ctrl+e",
+        "command": "workbench.files.action.collapseExplorerFolders"
+    },
+    {
+        "key": "ctrl+alt+c",
+        "command": "cSpell.toggleEnableForGlobal"
+    },
+    {
+        "key": "ctrl+k /",
+        "command": "workbench.files.action.showActiveFileInExplorer"
+    },
+    {
+        "key": "ctrl+k oem_comma",
+        "command": "workbench.action.openSettingsJson"
+    },
+    {
+        "key": "ctrl+k ctrl+oem_comma",
+        "command": "workbench.action.openGlobalKeybindingsFile"
+    },
+    {
+        "key": "ctrl+shift+f6",
+        "command": "workbench.debug.viewlet.action.removeAllBreakpoints"
+    },
+    {
+        "key": "ctrl+k ctrl+l",
+        "command": "toggle",
+        "when": "editorTextFocus",
+        "args": {
+            "id": "line-numbers",
+            "value": [
+                {
+                    "editor.lineNumbers": "off"
+                },
+                {
+                    "editor.lineNumbers": "on"
+                }
+            ]
+        }
+    },
+    {
+        "key": "ctrl+k ctrl+d",
+        "command": "toggle",
+        "when": "editorTextFocus",
+        "args": {
+            "id": "glyph-margin",
+            "value": [
+                {
+                    "editor.glyphMargin": false
+                },
+                {
+                    "editor.glyphMargin": true
+                }
+            ]
+        }
+    },
+    {
+        "key": "ctrl+k ctrl+m",
+        "command": "toggle",
+        "when": "editorTextFocus",
+        "args": {
+            "id": "minimap",
+            "value": [
+                {
+                    "editor.minimap.enabled": true
+                },
+                {
+                    "editor.minimap.enabled": false
+                }
+            ]
+        }
+    }
+]
