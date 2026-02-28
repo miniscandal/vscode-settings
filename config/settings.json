@@ -37,7 +37,7 @@
     "editor.rulers": [
         {
             "column": 80,
-            "color": "#85a0db18",
+            "color": "#85a0db18"
         }
     ],
     "files.insertFinalNewline": true,
@@ -50,47 +50,11 @@
     "explorer.compactFolders": true,
     "zenMode.showTabs": "none",
     "zenMode.centerLayout": false,
+    "terminal.integrated.defaultProfile.windows": "Debian (WSL)",
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.cursorBlinking": true,
     "breadcrumbs.filePath": "off",
     "breadcrumbs.enabled": false,
-    "workbench.layoutControl.enabled": false,
-    "workbench.editor.labelFormat": "short",
-    "workbench.editor.showTabs": "none",
-    "workbench.editor.tabActionCloseVisibility": false,
-    "workbench.tree.renderIndentGuides": "none",
-    "workbench.editor.enablePreview": false,
-    "workbench.editor.editorActionsLocation": "hidden",
-    "workbench.layoutControl.type": "menu",
-    "workbench.sideBar.location": "right",
-    "workbench.startupEditor": "none",
-    "workbench.tips.enabled": false,
-    "workbench.editorAssociations": {
-        "*.copilotmd": "vscode.markdown.preview.editor",
-        "*.svg": "default"
-    },
-    "workbench.colorCustomizations": {
-        "editorOverviewRuler.errorForeground": "#00000000",
-        "editorOverviewRuler.background": "#00000000",
-        "editorOverviewRuler.warningForeground": "#00000000",
-        "editorOverviewRuler.infoForeground": "#00000000",
-        "editorOverviewRuler.bracketMatchForeground": "#00000000",
-        "editorOverviewRuler.findMatchForeground": "#00000000",
-        "editorOverviewRuler.rangeHighlightForeground": "#00000000",
-        "editorOverviewRuler.selectionHighlightForeground": "#00000000",
-        "editorOverviewRuler.wordHighlightForeground": "#00000000",
-        "editorOverviewRuler.wordHighlightStrongForeground": "#00000000",
-        "editorOverviewRuler.modifiedForeground": "#00000000",
-        "editorOverviewRuler.addedForeground": "#00000000",
-        "editorOverviewRuler.deletedForeground": "#00000000",
-        "editorGutter.background": "#00000000",
-        // "editor.wordHighlightStrongBackground": "#C63D2F",
-        // "editor.wordHighlightStrongBorder": "#C63D2F",
-        // "editor.wordHighlightBackground": "#352F44",
-        // "editor.wordHighlightBorder": "#352F44",
-        // "editor.selectionBackground": "#42293f",
-        // "editorCursor.foreground": "#ffffff"
-    },
     "git.enabled": false,
     "git.decorations.enabled": false,
     "typescript.updateImportsOnFileMove.enabled": "always",
@@ -102,10 +66,10 @@
     "powermode.combo.counterEnabled": "hide",
     "powermode.shake.enabled": false,
     "background.windowBackgrounds": [
-        "c:/Users/histo/ScandalCode/Wallpapers/424.png"
+        "c:/Users/histo/ScandalCode/Wallpapers/1222649.png"
     ],
     "background.backgroundOpacity": [
-        0.1,
+        0.15,
         0.1,
         0.1,
         0.1
@@ -115,7 +79,7 @@
         "english",
         "spanish"
     ],
-    "shellformat.path": "C:\\bin\\shfmt.exe",
+    "shellformat.path": "/usr/bin/shfmt",
     "shellformat.flag": "-i 2 -ci -sr -bn",
     "python.formatting.provider": "black",
     "python.formatting.blackArgs": [
@@ -136,11 +100,6 @@
     "window.menuBarVisibility": "compact",
     "redhat.telemetry.enabled": true,
     "debug.breakpointsView.presentation": "tree",
-    "workbench.colorTheme": "Catppuccin Mocha",
-    "workbench.productIconTheme": "el-vsc-v1-icons",
-    "workbench.iconTheme": "catppuccin-mocha",
-    "workbench.statusBar.visible": false,
-    "workbench.activityBar.location": "hidden",
     "json.schemaDownload.trustedDomains": {
         "https://schemastore.azurewebsites.net/": true,
         "https://raw.githubusercontent.com/": true,
@@ -148,5 +107,50 @@
         "https://json.schemastore.org/": true,
         "https://json-schema.org/": true,
         "https://esm.sh/": true
-    }
+    },
+    "[fish]": {
+        "editor.defaultFormatter": "bmalehorn.vscode-fish"
+    },
+    "workbench.colorCustomizations": {
+        "editorOverviewRuler.errorForeground": "#00000000",
+        "editorOverviewRuler.background": "#00000000",
+        "editorOverviewRuler.warningForeground": "#00000000",
+        "editorOverviewRuler.infoForeground": "#00000000",
+        "editorOverviewRuler.bracketMatchForeground": "#00000000",
+        "editorOverviewRuler.findMatchForeground": "#00000000",
+        "editorOverviewRuler.rangeHighlightForeground": "#00000000",
+        "editorOverviewRuler.selectionHighlightForeground": "#00000000",
+        "editorOverviewRuler.wordHighlightForeground": "#00000000",
+        "editorOverviewRuler.wordHighlightStrongForeground": "#00000000",
+        "editorOverviewRuler.modifiedForeground": "#00000000",
+        "editorOverviewRuler.addedForeground": "#00000000",
+        "editorOverviewRuler.deletedForeground": "#00000000",
+        "editorGutter.background": "#00000000"
+        // "editor.wordHighlightStrongBackground": "#C63D2F",
+        // "editor.wordHighlightStrongBorder": "#C63D2F",
+        // "editor.wordHighlightBackground": "#352F44",
+        // "editor.wordHighlightBorder": "#352F44",
+        // "editor.selectionBackground": "#42293f",
+        // "editorCursor.foreground": "#ffffff"
+    },
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.labelFormat": "short",
+    "workbench.editor.showTabs": "none",
+    "workbench.editor.tabActionCloseVisibility": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.layoutControl.type": "menu",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.svg": "default"
+    },
+    "workbench.productIconTheme": "el-vsc-v1-icons",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.activityBar.location": "hidden"
 }
