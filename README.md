@@ -28,9 +28,13 @@ Always back up your current settings before customizing — it’ll save you tro
 
 - [Toggle](https://marketplace.visualstudio.com/items?itemName=rebornix.toggle)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)  
+- [Spanish - Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish)  
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)  
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)  
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)  
+- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+- [Continue - open-source AI code agent](https://marketplace.visualstudio.com/items?itemName=Continue.continue)
+- [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
 
 #### Aesthetics ✰
 
@@ -46,8 +50,6 @@ Always back up your current settings before customizing — it’ll save you tro
 #### Useful Tools ✰
 
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)  
-- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)  
-- [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)  
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ---
@@ -56,6 +58,7 @@ Always back up your current settings before customizing — it’ll save you tro
 
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)  
 - [shell-format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format)  
+- [Fish](https://marketplace.visualstudio.com/items?itemName=bmalehorn.vscode-fish)  
 
 ### Python Profile
 
