@@ -48,13 +48,8 @@ mono: https://marketplace.visualstudio.com/items?itemName=StepanVanzuriak.mono
 ✰ Icons
 
 Symbols: https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
-
 Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-
 Gruvbox Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme
-
 Minimalist Product Icon Theme: https://marketplace.visualstudio.com/items?itemName=ElAnandKumar.el-vsc-product-icon-theme
-
 Catppuccin Icons for VSCode: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
-
 vscode-icons: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
